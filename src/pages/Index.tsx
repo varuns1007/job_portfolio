@@ -367,7 +367,7 @@ const Index = () => {
               rooted in real-world impact.
             </p>
           </div>
-          <div className="flex justify-center space-x-6 mb-12">
+          <div className="flex justify-center flex-wrap gap-4 mb-12">
             <a
               href="https://github.com/varuns1007"
               target="_blank"
@@ -402,7 +402,7 @@ const Index = () => {
                 style={{ borderColor: currentTheme.cardBorder }}
               >
                 <Download className="w-5 h-5 mr-2" />
-                Download Resume
+                Resume
               </Button>
             </a>
           </div>
